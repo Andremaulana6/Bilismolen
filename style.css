@@ -1,0 +1,93 @@
+body {
+  padding: 100;
+  margin: 200;
+}
+
+nav ul li {
+  /*-- mengatur margin top&bottom = 0 , margin right&left=20px*/
+  margin: 0 20px;
+}
+/*-- . menunjukkan nama kelas --*/
+.jumbotron {
+  background-image: url('./barelang.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 390px;
+  text-align: left;
+  padding-top: 60px;
+  margin-top: 0px;
+}
+
+.content {
+  /* mengatur lebar kolom content */
+  width: 100%;
+  /*-- mengatur  warna background--*/
+  background-color: #ff7f00;
+  /*-- mengatur tinggi tampilan content --*/
+  height: 70px;
+}
+
+/*background bilis molen*/
+.content-1 {
+  background-image: url('./images/bilis_molen_top.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 490px;
+  width: 100%;
+  text-align: center;
+  padding-top: 150px;
+}
+
+/*Text penjelasan bilis molen*/
+.potong {
+  padding: 10px 10px 10px 10px;
+  background-color: #ff7f00;
+  width: 20px;
+  height: 70px;
+}
+.potong2 {
+  padding: 10px 10px 10px 10px;
+  background-color: #ff7f00;
+  width: 100%;
+  height: 70px;
+}
+.content-3 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 450px;
+  width: 100%;
+  text-align: center;
+  padding-top: 200px;
+}
+.content-4 {
+  background-color: rgb(26, 247, 236);
+}
+
+.orange {
+  background-color: #ff7f00;
+}
+.kecil {
+  padding: 1px 1px 1px 1px;
+  background-color: grey;
+}
+
+.VIAPemesanan {
+  padding: 30px 30px 30px 30px;
+  background-color: #ff7f00;
+}
+.hijau {
+  background-color: rgb(8, 236, 65);
+}
+.merah {
+  background-color: rgb(247, 10, 10);
+}
+.biru {
+  background-color: rgb(25, 0, 255);
+}
+
+.JNT {
+  padding-left: 400px;
+}
